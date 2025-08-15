@@ -1,6 +1,7 @@
 import logging
 from telegram import Update
 from telegram.ext import filters, ApplicationBuilder, ContextTypes, CommandHandler, MessageHandler
+from variavel import itoken
 
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
@@ -18,7 +19,7 @@ async def caps(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await context.bot.send_message(chat_id=update.effective_chat.id, text=text_caps)
 
 if __name__ == '__main__':
-    app = ApplicationBuilder().token('8251512652:AAG_IvS4DYbOrjbrBz60StIelR6nBYPZXXI').build()
+    app = ApplicationBuilder().token(itoken).build()
 
         
     start_handler = CommandHandler('start', start)
