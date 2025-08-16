@@ -5,6 +5,7 @@
 ### Passos para sucesso na implementação
 
 **Dependências para o bot:**
+  
   Python versão 3.10 ou maior
   
   Cadastro da API Twilio WhatsApp API
