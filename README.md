@@ -25,3 +25,5 @@ pip install python-telegram-bot --upgrade
 
 "https://github.com/dryeab/mcp-telegram?tab=readme-ov-file"  -- **link para uso do MCP**
 
+"https://docs.python-telegram-bot.org/en/stable/?utm_source=chatgpt.com" -- **link da documentação**
+
