@@ -11,7 +11,7 @@
 **É preciso criar um ambiente virtual para instalação dos módulos**
 ```
 git clone https://github.com/lucas-C2025/chatbot.git && cd chatbot
-python3 -m chatbot-env
+python3 -m venv chatbot-env
 source chatbot-env/bin/activate
 ```
 **Após isso será possível usar o comando pip normalmente**
