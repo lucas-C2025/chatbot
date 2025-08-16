@@ -7,6 +7,7 @@
 **Dependências para o bot:**
   Python versão 3.10 ou maior
   Conta no Telegram, acessar no telegram @BotFather e usar o comando /newbot para criar e salvar o token
+
 **É preciso criar um ambiente virtual para instalação dos módulos**
 ```
 git clone https://github.com/lucas-C2025/chatbot.git && cd chatbot
