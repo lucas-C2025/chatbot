@@ -6,7 +6,9 @@
 
 **Dependências para o bot:**
   Python versão 3.10 ou maior
+  
   Cadastro da API Twilio WhatsApp API
+  
   Instalação do ngrok
 
 **É preciso criar um ambiente virtual para instalação dos módulos**
