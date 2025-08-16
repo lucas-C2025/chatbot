@@ -1,6 +1,4 @@
-/bin
-/include
-/lib
-/lib64
-pyvenv.cfg
+/bot-env
 variavel.py
+/__pycache__
+/whatsapp
